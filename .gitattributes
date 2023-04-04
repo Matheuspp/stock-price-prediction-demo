@@ -1,0 +1,2 @@
+stocks/ filter=lfs diff=lfs merge=lfs -text
+etfs/ filter=lfs diff=lfs merge=lfs -text
